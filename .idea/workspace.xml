@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86af679c-6eca-4371-ae5b-b239f52053ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/Java_Course.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
@@ -47,7 +46,8 @@
   "keyToString": {
     "Application.Aula1.executor": "Run",
     "Application.Aula2.executor": "Run",
-    "Application.Aula3.executor": "Run",
+    "Application.Aula3.executor": "Debug",
+    "Application.Aula4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
@@ -74,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723549901649</updated>
-      <workItem from="1723549902656" duration="1197000" />
+      <workItem from="1723549902656" duration="4222000" />
     </task>
     <servers />
   </component>
