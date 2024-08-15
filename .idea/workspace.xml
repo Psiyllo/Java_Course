@@ -4,80 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="0968ffa5-374e-4bc2-a2d0-ca5841e377ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_Course/src/main/java/start_marathon_javacourse/Aula5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Course/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Course/.idea/workspace.xml" afterDir="false" />
-=======
-    <list default="true" id="86af679c-6eca-4371-ae5b-b239f52053ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Java_Course.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="61bb4d26-7cb2-49bd-98cf-6bfb8556d876" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/marathon_course/Aula1.java" beforeDir="false" />
->>>>>>> 4f937fc65cd77cd6e5697cf3cd4057eaa8030725
+      <change beforePath="$PROJECT_DIR$/Java_Course" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-<<<<<<< HEAD
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Java_Course" />
-    <option name="ROOT_SYNC" value="SYNC" />
-=======
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="1b69919d560e110d1d25167416809b76817f1044" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
->>>>>>> 4f937fc65cd77cd6e5697cf3cd4057eaa8030725
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-<<<<<<< HEAD
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
-  <component name="ProjectId" id="2kgzstOnpcz2mmbQvYB2EmX7bFG" />
-=======
-  "associatedIndex": 6
-}]]></component>
-  <component name="ProjectId" id="2kbQfkzQEZAvX69Jl0sepsflKjo" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2khKFkZhtdsWA5Qbm1q0YKYRBEs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
->>>>>>> 4f937fc65cd77cd6e5697cf3cd4057eaa8030725
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-<<<<<<< HEAD
+    "Application.Aula4.executor": "Run",
     "Application.Aula5.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/08316834146/Desktop/Java_Course",
-=======
-    "Application.Aula1.executor": "Run",
-    "Application.Aula2.executor": "Run",
-    "Application.Aula3.executor": "Debug",
-    "Application.Aula4.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
->>>>>>> 4f937fc65cd77cd6e5697cf3cd4057eaa8030725
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -96,25 +64,40 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="0968ffa5-374e-4bc2-a2d0-ca5841e377ec" name="Changes" comment="" />
-      <created>1723720217195</created>
+      <changelist id="61bb4d26-7cb2-49bd-98cf-6bfb8556d876" name="Changes" comment="" />
+      <created>1723730266466</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1723720217195</updated>
-      <workItem from="1723720218390" duration="2832000" />
-=======
-      <changelist id="86af679c-6eca-4371-ae5b-b239f52053ba" name="Changes" comment="" />
-      <created>1723549901649</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1723549901649</updated>
-      <workItem from="1723549902656" duration="4222000" />
->>>>>>> 4f937fc65cd77cd6e5697cf3cd4057eaa8030725
+      <updated>1723730266466</updated>
+      <workItem from="1723730267496" duration="404000" />
+      <workItem from="1723730807463" duration="213000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
