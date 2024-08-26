@@ -2,7 +2,7 @@ package start_marathon_javacourse;
 
 public class Aula5Parte2 {
     public static void main(String[] args) {
-        int idade = 20;
+        int idade = 12;
         String categoria = null;
 
 //        if(idade < 15){
