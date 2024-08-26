@@ -14,17 +14,5 @@ public class Aula5 {
         if (c == true) {
             System.out.println("já sabe né");
         }
-
-
-        String categoria = null;
-        
-        if(idade < 15){
-            categoria = "Categoria Infantil";
-        } else if(idade >= 15 && idade < 18){
-            categoria = "Categoria Juvenil";
-        } else if (idade > 18){
-            categoria = "Categoria Adulto";
-        }
-        System.out.println(categoria);
     }
 }
