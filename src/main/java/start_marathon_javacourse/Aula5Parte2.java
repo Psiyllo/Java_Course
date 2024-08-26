@@ -5,13 +5,15 @@ public class Aula5Parte2 {
         int idade = 20;
         String categoria = null;
 
-        if(idade < 15){
-            categoria = "Categoria Infantil";
-        } else if(idade >= 15 && idade < 18){
-            categoria = "Categoria Juvenil";
-        } else if (idade > 18){
-            categoria = "Categoria Adulto";
-        }
+//        if(idade < 15){
+//            categoria = "Categoria Infantil";
+//        } else if(idade >= 15 && idade < 18){
+//            categoria = "Categoria Juvenil";
+//        } else if (idade > 18){
+//            categoria = "Categoria Adulto";
+//        }
+
+        categoria = idade < 15 ? "Categoria Infantil" : idade >= 15 && idade < 18 ? "Categoria Juvenil" : "Categoria Adulto";
         System.out.println(categoria);
     }
 }
