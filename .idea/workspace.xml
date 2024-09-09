@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61bb4d26-7cb2-49bd-98cf-6bfb8556d876" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula5Parte2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula5Parte3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula5Parte6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,23 +47,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Aula4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Aula5Parte2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Aula4.executor": "Run",
+    "Application.Aula5.executor": "Run",
+    "Application.Aula5Parte2.executor": "Run",
+    "Application.Aula5Parte3.executor": "Run",
+    "Application.Aula5Parte4.executor": "Run",
+    "Application.Aula5Parte5.executor": "Run",
+    "Application.Aula5Parte6.executor": "Run",
+    "Application.Aula6.executor": "Run",
+    "Maven.Java_Course [clean].executor": "Run",
+    "Maven.Java_Course [install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -86,7 +93,9 @@
       <workItem from="1724066943246" duration="596000" />
       <workItem from="1724153482736" duration="1041000" />
       <workItem from="1724412341247" duration="595000" />
-      <workItem from="1724671823049" duration="608000" />
+      <workItem from="1724671823049" duration="5077000" />
+      <workItem from="1724760521586" duration="1977000" />
+      <workItem from="1725880003225" duration="2768000" />
     </task>
     <servers />
   </component>
