@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61bb4d26-7cb2-49bd-98cf-6bfb8556d876" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula6Parte2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula6Parte3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Application.Aula5Parte6.executor": "Run",
     "Application.Aula6.executor": "Run",
     "Application.Aula6Parte2.executor": "Run",
+    "Application.Aula6Parte3.executor": "Run",
     "Maven.Java_Course [clean].executor": "Run",
     "Maven.Java_Course [install].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -95,6 +96,8 @@
       <workItem from="1724671823049" duration="5077000" />
       <workItem from="1724760521586" duration="1977000" />
       <workItem from="1725880003225" duration="2768000" />
+      <workItem from="1725966598001" duration="637000" />
+      <workItem from="1726053653085" duration="709000" />
     </task>
     <servers />
   </component>
