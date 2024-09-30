@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61bb4d26-7cb2-49bd-98cf-6bfb8556d876" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula6Parte3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula6parte4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula6parte4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,7 @@
     "Application.Aula6.executor": "Run",
     "Application.Aula6Parte2.executor": "Run",
     "Application.Aula6Parte3.executor": "Run",
+    "Application.Aula6parte4.executor": "Debug",
     "Maven.Java_Course [clean].executor": "Run",
     "Maven.Java_Course [install].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -98,6 +99,16 @@
       <workItem from="1725880003225" duration="2768000" />
       <workItem from="1725966598001" duration="637000" />
       <workItem from="1726053653085" duration="709000" />
+      <workItem from="1726139914757" duration="609000" />
+      <workItem from="1726226726174" duration="592000" />
+      <workItem from="1726486046219" duration="593000" />
+      <workItem from="1726659519376" duration="594000" />
+      <workItem from="1726745191992" duration="604000" />
+      <workItem from="1726830792159" duration="1192000" />
+      <workItem from="1727090213021" duration="1983000" />
+      <workItem from="1727176881731" duration="593000" />
+      <workItem from="1727263439109" duration="594000" />
+      <workItem from="1727695654946" duration="1250000" />
     </task>
     <servers />
   </component>
@@ -126,5 +137,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula6parte4.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
