@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61bb4d26-7cb2-49bd-98cf-6bfb8556d876" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula8Parte2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +61,9 @@
     "Application.Aula6parte4.executor": "Run",
     "Application.Aula7.executor": "Run",
     "Application.Aula7Parte2.executor": "Run",
+    "Application.Aula7Parte3.executor": "Run",
+    "Application.Aula8.executor": "Run",
+    "Application.Aula8Parte2.executor": "Run",
     "Maven.Java_Course [clean].executor": "Run",
     "Maven.Java_Course [install].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -73,13 +78,6 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -109,7 +107,12 @@
       <workItem from="1727090213021" duration="1983000" />
       <workItem from="1727176881731" duration="593000" />
       <workItem from="1727263439109" duration="594000" />
-      <workItem from="1727695654946" duration="3855000" />
+      <workItem from="1727695654946" duration="4726000" />
+      <workItem from="1727708176463" duration="594000" />
+      <workItem from="1727781870795" duration="597000" />
+      <workItem from="1727955312812" duration="594000" />
+      <workItem from="1727962498236" duration="267000" />
+      <workItem from="1728904543370" duration="1178000" />
     </task>
     <servers />
   </component>
