@@ -1,7 +1,7 @@
 package start_marathon_classes.test;
 import start_marathon_classes.dominio.Estudante;
 
-public class PessoaTest01 {
+public class EstudanteTest01 {
     public static void main(String[] args){
         Estudante estudante = new Estudante();
         estudante.nome = "Paulo";
