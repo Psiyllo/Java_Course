@@ -1,4 +1,4 @@
-package start_marathon_javacourse;
+package start_marathon_javacourse.introducao;
 
 public class Aula7Parte2 {
     public static void main(String[] args) {

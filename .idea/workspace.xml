@@ -5,9 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61bb4d26-7cb2-49bd-98cf-6bfb8556d876" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula8Parte2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_classes/dominio/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_classes/test/PessoaTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula5Parte2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula5Parte2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula5Parte3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula5Parte3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula5Parte4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula5Parte4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula5Parte5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula5Parte5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula5Parte6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula5Parte6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula6Parte2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula6Parte2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula6Parte3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula6Parte3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula6parte4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula6parte4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula7Parte2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula7Parte2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula7Parte3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula7Parte3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/Aula8Parte2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_javacourse/introducao/Aula8Parte2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +88,7 @@
     "Maven.Java_Course [install].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -113,6 +134,16 @@
       <workItem from="1727955312812" duration="594000" />
       <workItem from="1727962498236" duration="267000" />
       <workItem from="1728904543370" duration="1178000" />
+      <workItem from="1729078031133" duration="594000" />
+      <workItem from="1729251421258" duration="595000" />
+      <workItem from="1729510111114" duration="595000" />
+      <workItem from="1729682921834" duration="595000" />
+      <workItem from="1729855331110" duration="594000" />
+      <workItem from="1730114620097" duration="595000" />
+      <workItem from="1730200778581" duration="594000" />
+      <workItem from="1730288118205" duration="595000" />
+      <workItem from="1730374021745" duration="1089000" />
+      <workItem from="1730720033232" duration="1375000" />
     </task>
     <servers />
   </component>
