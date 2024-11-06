@@ -8,7 +8,14 @@ public class Calculadora {
         System.out.println(20-14);
     }
 
-    public void MultiplicaDoisNumeros(int num1, int num2){
-        System.out.println(num1 * num2);
+    public int  MultiplicaDoisNumeros(int num1, int num2){
+        return num1 * num2;
+    }
+
+    public double DivideDoisNumeros(double num1, double num2){
+        if (num2 == 0){
+            return 0;
+        }
+        return num1 / num2;
     }
 }

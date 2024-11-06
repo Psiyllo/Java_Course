@@ -5,9 +5,11 @@ import start_marathon_metodos.dominio.Calculadora;
 public class CalculadoraTest02 {
     public static void main(String[] args) {
         Calculadora calculadora = new Calculadora();
-        int num = 16;
-        int num2 = 32;
-        calculadora.MultiplicaDoisNumeros(num, num2);
-        System.out.println(calculadora);
+        int result = calculadora.MultiplicaDoisNumeros(23, 76);
+        System.out.println(result);
+
+        Calculadora calculadora1 = new Calculadora();
+        double result1 = calculadora1.DivideDoisNumeros(20, 10);
+        System.out.println(result1);
     }
 }
