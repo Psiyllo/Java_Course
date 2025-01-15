@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61bb4d26-7cb2-49bd-98cf-6bfb8556d876" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/test/EstudanteTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/test/CalculadoraTeste03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/dominio/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/dominio/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/dominio/ImpressoraEstudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/dominio/ImpressoraEstudante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/dominio/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/dominio/Calculadora.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +79,7 @@
     "Application.Aula8Parte2.executor": "Run",
     "Application.CalculadoraTest01.executor": "Run",
     "Application.CalculadoraTest02.executor": "Run",
+    "Application.CalculadoraTeste03.executor": "Run",
     "Application.CarroTest01.executor": "Run",
     "Application.EstudanteTest01.executor": "Run",
     "Application.EstudanteTest02.executor": "Run",
