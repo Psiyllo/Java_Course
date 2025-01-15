@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="61bb4d26-7cb2-49bd-98cf-6bfb8556d876" name="Changes" comment="" />
+=======
+    <list default="true" id="61bb4d26-7cb2-49bd-98cf-6bfb8556d876" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/dominio/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/dominio/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/test/CalculadoraTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/test/CalculadoraTest02.java" afterDir="false" />
+    </list>
+>>>>>>> 0d9fc6e558e6edde0e4b4b84059ab27f459f0ea7
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +81,7 @@
     "Application.Aula8.executor": "Run",
     "Application.Aula8Parte2.executor": "Run",
     "Application.CalculadoraTest01.executor": "Run",
+    "Application.CalculadoraTest02.executor": "Run",
     "Application.CarroTest01.executor": "Run",
     "Application.EstudanteTest01.executor": "Debug",
     "Application.EstudanteTest02.executor": "Run",
@@ -153,10 +161,16 @@
       <workItem from="1730200778581" duration="594000" />
       <workItem from="1730288118205" duration="595000" />
       <workItem from="1730374021745" duration="1089000" />
+<<<<<<< HEAD
       <workItem from="1730720033232" duration="5166000" />
       <workItem from="1736776455303" duration="836000" />
       <workItem from="1736890820810" duration="606000" />
       <workItem from="1736946555492" duration="1108000" />
+=======
+      <workItem from="1730720033232" duration="5806000" />
+      <workItem from="1730806164421" duration="1728000" />
+      <workItem from="1730893314632" duration="2997000" />
+>>>>>>> 0d9fc6e558e6edde0e4b4b84059ab27f459f0ea7
     </task>
     <servers />
   </component>
