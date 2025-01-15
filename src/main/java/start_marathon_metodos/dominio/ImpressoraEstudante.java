@@ -6,6 +6,7 @@ public class ImpressoraEstudante {
         System.out.println("---------------------------------------");
 
 //        Qualquer alteração dentro do metodo obviamente vai trocar o retorno no objeto
+        //Pelas boas praticas nunca altere o objeto pelo metodo
 //        estudante.nome = "Einstein";
 
         System.out.println(estudante.nome);
@@ -14,6 +15,7 @@ public class ImpressoraEstudante {
 
         //com a alteração após os sout a primeira impressão saíra normal com o nome dos objetos que foi setado na classe, porém na segunda interação os nomes serão trocados para Einsten.
         //é simples, deu sout  com o objeto já existente após isso os nomes são trocados, portanto na segunda interação será impresso os nomes dos objetos pós alteração
+        //Pelas boas praticas nunca altere o objeto pelo metodo
         estudante.nome = "Einstein";
 
     }
