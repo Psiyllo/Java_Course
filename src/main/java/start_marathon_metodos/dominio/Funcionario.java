@@ -4,7 +4,7 @@ public class Funcionario {
     private String nome;
     private int idade;
     private double[] salarios;
-    private double media;
+    private double media = 0;
 
     public void imprimirfuncionario(){
         System.out.println("Nome: " + this.nome);

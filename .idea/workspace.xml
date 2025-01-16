@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61bb4d26-7cb2-49bd-98cf-6bfb8556d876" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_sobrecargametodos/dominio/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_sobrecargametodos/test/SeriesTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/dominio/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/test/FuncionarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/test/FuncionarioTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +91,7 @@
     "Application.FuncionarioTest.executor": "Run",
     "Application.PessoaTest01.executor": "Run",
     "Application.ProfessorTest01.executor": "Run",
+    "Application.SeriesTest01.executor": "Run",
     "Maven.Java_Course [clean].executor": "Run",
     "Maven.Java_Course [install].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -171,7 +173,7 @@
       <workItem from="1730720033232" duration="5806000" />
       <workItem from="1730806164421" duration="1728000" />
       <workItem from="1730893314632" duration="2997000" />
-      <workItem from="1737029898730" duration="5080000" />
+      <workItem from="1737029898730" duration="5756000" />
     </task>
     <servers />
   </component>
