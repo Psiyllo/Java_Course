@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61bb4d26-7cb2-49bd-98cf-6bfb8556d876" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_sobrecargametodos/dominio/Series.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/start_marathon_sobrecargametodos/test/SeriesTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Gstart_marathon_modificadorestatico/domain/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Gstart_marathon_modificadorestatico/test/CarroTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/dominio/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/start_marathon_metodos/dominio/Funcionario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +45,10 @@
     &quot;accountId&quot;: &quot;18cf7dab-660f-46a8-a182-6161b93edaae&quot;
   }
 }</component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -65,6 +64,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnimesTest01.executor": "Run",
     "Application.Aula1.executor": "Run",
     "Application.Aula4.executor": "Run",
     "Application.Aula5.executor": "Run",
@@ -173,7 +173,8 @@
       <workItem from="1730720033232" duration="5806000" />
       <workItem from="1730806164421" duration="1728000" />
       <workItem from="1730893314632" duration="2997000" />
-      <workItem from="1737029898730" duration="5756000" />
+      <workItem from="1737029898730" duration="8850000" />
+      <workItem from="1737304953063" duration="970000" />
     </task>
     <servers />
   </component>
