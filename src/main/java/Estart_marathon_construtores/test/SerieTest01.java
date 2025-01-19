@@ -6,7 +6,7 @@ public class SerieTest01 {
     public static void main(String[] args) {
         
     
-    Serie serie = new Serie("Alice", "TV", 28, "Comedia");
+    Serie serie = new Serie("Alice", "TV", 28, "Comedia","Netflix");
     Serie serie2 = new Serie();
     // serie.init("SweetHome", "TV", 26, "Terror");
     
@@ -14,7 +14,7 @@ public class SerieTest01 {
     // serie.setTipo("Terror");
     // serie.setEpisodios(24);
     serie.imprime();
-    serie2.imprime();
+    // serie2.imprime();
 
 }
 }

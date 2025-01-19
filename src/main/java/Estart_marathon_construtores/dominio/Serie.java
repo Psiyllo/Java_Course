@@ -5,19 +5,29 @@ public class Serie {
     private String tipo;
     private int episodios;
     private String genero;
+    private String studio;
 
     //sobrecarga de metodo (da pra usar o mesmo metodo com quantidade de atriutos diferentess)
 
     public Serie (String nome, String tipo, int episodios,String genero){
-        System.out.println("dentro do construtor: ");
+        this();
         this.nome = nome;
         this.tipo = tipo;
         this.episodios = episodios;
         this.genero = genero;
     }
 
+    public Serie (String nome, String tipo, int episodios,String genero, String studio){
+        this(nome, tipo, episodios, genero);
+        this.nome = nome;
+        this.tipo = tipo;
+        this.episodios = episodios;
+        this.genero = genero;
+        this.studio = studio;
+    }
+
     public Serie() {
-        
+        System.out.println("dentro do construtor sem argumentos");
     }
 
     // public void init (String nome, String tipo, int episodios){
@@ -36,6 +46,7 @@ public class Serie {
         System.out.println("tipo: " + this.tipo);
         System.out.println("episodios: " + this.episodios);
         System.out.println("genero: " + this.genero);
+        System.out.println("estudio: " + this.studio);
     }
 
     public void setGenero(String genero){
