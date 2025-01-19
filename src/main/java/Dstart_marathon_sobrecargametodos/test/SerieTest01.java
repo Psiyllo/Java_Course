@@ -9,7 +9,7 @@ public class SerieTest01 {
     Serie serie = new Serie();
 
     serie.init("SweetHome", "TV", 26, "Terror");
-    
+     
     // serie.setNome("Sweet Home");
     // serie.setTipo("Terror");
     // serie.setEpisodios(24);

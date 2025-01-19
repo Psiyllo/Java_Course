@@ -8,20 +8,28 @@ public class Serie {
 
     //sobrecarga de metodo (da pra usar o mesmo metodo com quantidade de atriutos diferentess)
 
-    public Serie (){
-        
-    }
-
-    public void init (String nome, String tipo, int episodios){
+    public Serie (String nome, String tipo, int episodios,String genero){
+        System.out.println("dentro do construtor: ");
         this.nome = nome;
         this.tipo = tipo;
         this.episodios = episodios;
-    }
-
-    public void init (String nome, String tipo, int episodios,String genero){
-        this.init(nome, tipo, episodios);
         this.genero = genero;
     }
+
+    public Serie() {
+        
+    }
+
+    // public void init (String nome, String tipo, int episodios){
+    //     this.nome = nome;
+    //     this.tipo = tipo;
+    //     this.episodios = episodios;
+    // }
+
+    // public void init (String nome, String tipo, int episodios,String genero){
+    //     this.init(nome, tipo, episodios);
+    //     this.genero = genero;
+    // }
 
     public void imprime(){
         System.out.println("nome: " + this.nome);
